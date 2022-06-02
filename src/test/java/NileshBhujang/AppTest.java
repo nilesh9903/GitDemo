@@ -18,10 +18,14 @@ public class AppTest
         assertTrue( true );
     }
 	
-	public void m1{
+	public void m1(){
 		
 		for(int i=0;i<5;i++)
 		{
-			Sysetm.out.println("Hello")
-		
-	}
+			System.out.println("Hello");
+            System.out.println("update the code");
+			System.out.println("push new code change to github");
+        }
+    }
+
+}
